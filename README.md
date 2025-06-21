@@ -1,2 +1,2 @@
 # ignotice-style
-stylesheet-kode til instagram-like/følger.
+stylesheet-kode til instagram-like/follow.
