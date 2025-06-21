@@ -1,0 +1,33 @@
+  .notice-box {
+    max-width: 400px;
+    margin: auto;
+    font-family: Nimbus-Sans-Extended, Helvetica, sans-serif;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.01);
+  }
+
+  .notice-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .notice-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+
+  .notice-text {
+    color: #333;
+    font-size: 1em;
+  }
